@@ -16,5 +16,9 @@ Base do projeto utilizada majoritariamente vista na disciplina [CS255 - Introdut
 ## Como testar a implementação
 Na pasta raiz do projeto, executar o comando:
 ```bash
+$ npm install
+```
+E em seguida:
+```bash
 $ npm test
 ```
